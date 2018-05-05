@@ -5,3 +5,4 @@ This is my first git.
 This is second commit that i made.
 
 Now add some text too.
+Next text
